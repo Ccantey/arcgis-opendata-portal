@@ -1,6 +1,6 @@
 # arcgis-opendata-portal
 
-Personalize ArcGIS open data portal
+Customize your ArcGIS open data portal experience - CSS sytling and JS interactions
 
 ## Basic Esri Open Data API  
 From [MJuniper] (https://github.com/mjuniper/presentations)'s DevSummit presentation
