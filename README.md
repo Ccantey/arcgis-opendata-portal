@@ -1,6 +1,6 @@
 # ArcGIS-OpenData-Portal
 
-Customize your ArcGIS open data portal experience - CSS sytling and JS interactions
+Customize your ArcGIS open data portal experience - CSS sytling and JS interactions (in progress)
 
 ![custom opendata portal](http://gis.wirapids.org/images/opendata.png)
 
