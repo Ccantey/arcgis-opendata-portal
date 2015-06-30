@@ -1,4 +1,4 @@
-# arcgis-opendata-portal
+# ArcGIS-OpenData-Portal
 
 Customize your ArcGIS open data portal experience - CSS sytling and JS interactions
 
