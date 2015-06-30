@@ -1,6 +1,7 @@
 # ArcGIS-OpenData-Portal
 
 Customize your ArcGIS open data portal experience - CSS sytling and JS interactions
+
 ![custom opendata portal](http://gis.wirapids.org/images/opendata.png)
 
 ## Basic Esri Open Data API  
