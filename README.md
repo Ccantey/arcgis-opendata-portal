@@ -2,7 +2,8 @@
 
 Personalize ArcGIS open data portal
 
-## Basic Esri Open Data API  #### [MJuniper] (https://github.com/mjuniper/presentations)
+## Basic Esri Open Data API  
+[MJuniper] (https://github.com/mjuniper/presentations)
 
 1. http://opendata.arcgis.com
 2. /datasets
