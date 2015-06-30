@@ -10,7 +10,8 @@ From [MJuniper] (https://github.com/mjuniper/presentations)'s DevSummit presenta
 3. .json
 4. ?q=water&sort_by=relevance&page=1
 
-r'/datasets.json?q=<search string>&page=<page number>'
+`/datasets.json?q=<search string>&page=<page number>`
 
 http://opendata.arcgis.com/datasets.json?q=water&sort_by=relevance&page=1
+
 http://opendata.arcgis.com/datasets?q=water&sort_by=relevance&page=1
